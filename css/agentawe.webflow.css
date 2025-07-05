@@ -385,6 +385,10 @@ h3 {
   font-size: 16px;
 }
 
+.cell-3 {
+  padding-left: 40px;
+}
+
 @media screen and (max-width: 991px) {
   .container {
     max-width: 728px;
